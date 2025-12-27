@@ -1,6 +1,6 @@
 # Four Wheel Robot
 
-ROS2 Humble package for 4-wheel differential drive robot simulation.
+ROS2 Humble package for 4-wheel robot simulation.
 
 ## Features
 - Gazebo Classic 11 simulation
