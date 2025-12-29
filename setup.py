@@ -30,7 +30,7 @@ setup(
     zip_safe=True,
     maintainer='akash',
     maintainer_email='akashsaiambati@gmail.com',
-    description='Four-wheel differential drive robot visualization and simulation package',
+    description='Four_wheel differential drive robot visualization and simulation package',
     license='Apache-2.0',
     tests_require=['pytest'],
     entry_points={

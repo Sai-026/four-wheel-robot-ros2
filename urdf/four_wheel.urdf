@@ -339,8 +339,8 @@
 <gazebo>
     <plugin name="differential_drive_controller" filename="libgazebo_ros_diff_drive.so">
         <!-- Only drive front 2 wheels -->
-        <left_joint>left_ft_joint</left_joint>
-        <right_joint>right_ft_joint</right_joint>
+        <left_joint>left_bk_joint</left_joint>
+        <right_joint>right_bk_joint</right_joint>
         
         <wheel_separation>0.24</wheel_separation>
         <wheel_diameter>0.075</wheel_diameter>
