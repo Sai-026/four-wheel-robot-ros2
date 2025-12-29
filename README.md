@@ -5,8 +5,6 @@ ROS2 Humble package for 4-wheel robot simulation.
 ## Features
 - Gazebo Classic 11 simulation
 - RViz visualization
-- 2D LiDAR sensor
-- Differential drive control (front wheels)
 
 ## Installation
 ```bash
